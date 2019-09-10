@@ -7,6 +7,6 @@ import (
 )
 
 func Hello() {
-	fmt.Println("B v1.1.0")
+	fmt.Println("B v1.2.0")
 	d.Hello()
 }
